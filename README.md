@@ -49,3 +49,7 @@ In addition, you will need a USB cable, keycaps, etc.
 この他に、USBケーブル、キーキャップ等が必要です。
 <br>
 
+<br>
+
+## Build guide
+
