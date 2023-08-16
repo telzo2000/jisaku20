@@ -53,3 +53,4 @@ In addition, you will need a USB cable, keycaps, etc.
 
 ## Build guide
 
+https://github.com/telzo2000/jisaku20/blob/main/buildguide_for_jisaku20.md
