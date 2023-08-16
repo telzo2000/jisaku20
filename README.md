@@ -17,7 +17,11 @@ jisaku20とjisaku20_rightをTRRSケーブルで繋ぐことにより、40キー�
 
 ## firmware
 
+https://github.com/telzo2000/jisaku20/tree/main/firmware
 
+## Case(acrylic plate)
+
+https://github.com/telzo2000/jisaku20/tree/main/case_design
 
 ## Parts list
 
