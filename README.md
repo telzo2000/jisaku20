@@ -31,7 +31,7 @@ https://github.com/telzo2000/jisaku20/tree/main/case_design
 |--|--|--|--|--|--|
 |番号|名前|数|備考|調達先|参考価格（送料込）|<br>
 |1|PCB|1|20key ortho Layout|[elecrow](https://www.elecrow.com)<br>[JLCPCB](https://jlcpcb.com)<br>[ALLPCB](https://www.allpcb.com)|５枚で10〜20ドル|<br>
-|2|Switch Plate|1||[elecrow](https://www.elecrow.com)|５枚で30〜40ドル|<br>
+|2|Switch Plate|1||[elecrow](https://www.elecrow.com)|５枚で20〜30ドル|<br>
 |3|Cover Plate|1|↑|↑|↑|<br>
 |4|Bottom Plate|1|↑|↑|↑|<br>
 |5|pro micro|1||[Talp Keyboard](https://talpkeyboard.net)|800円|
