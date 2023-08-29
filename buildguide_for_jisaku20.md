@@ -18,9 +18,11 @@ jisaku20及びjisaku20_rightには表面と裏面があります。
 <br>
 
 Front side
+
 ![](img/img00009.jpg)
 
 Back side
+
 ![](img/img00011.jpg)
 
 
