@@ -1,6 +1,8 @@
 # This file intentionally left blank
 SPLIT_KEYBOARD = yes
-SERIAL_DRIVER = usart
-
 SERIAL_DRIVER = vendor
-BOARD = GENERIC_RP_RP2040
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+
+
+

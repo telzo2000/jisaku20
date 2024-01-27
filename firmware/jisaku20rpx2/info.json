@@ -24,6 +24,13 @@
         "pid": "0x0121",
         "vid": "0x4D43"
     },
+
+    "encoder": {
+        "enabled": true,
+        "rotary": [
+            { "pin_a": "GP5", "pin_b": "GP6", "resolution": 2}
+        ]
+          
     "layouts": {
         "LAYOUT_ortho_4x10": {
             "layout": [

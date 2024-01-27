@@ -1,6 +1,6 @@
 {
     "manufacturer": "m.ki",
-    "keyboard_name": "jisaku20rp_right_re",
+    "keyboard_name": "jisaku20rp_rt",
     "maintainer": "telzo2000",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
@@ -21,13 +21,13 @@
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0122",
+        "pid": "0x0125",
         "vid": "0x4D43"
     },
-
+    
  
     "layouts": {
-        "LAYOUT_ortho_4x10": {
+        "LAYOUT_ortho_4x12": {
             "layout": [
                 { "matrix": [0, 0], "x": 0, "y": 0 },
                 { "matrix": [0, 1], "x": 1, "y": 0 },
