@@ -8,6 +8,13 @@
 
 <br>
 
+参考<br>
+
+https://github.com/telzo2000/Hello_keyboard/blob/main/readme_about_firmware.md
+
+<br>
+
+
 ## Build 
 
 ### 1 Parts check
