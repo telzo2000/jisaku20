@@ -1416,8 +1416,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "roba_kicad_footprints:XIAO_nRF52840_wBAT_wNFC_1"
-			(at 0 0 0)
+		(property "Footprint" "XIAO_BLE_v2"
+			(at 33.274 -8.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1467,78 +1467,6 @@
 						(size 1.27 1.27)
 					)
 					(justify left top)
-				)
-			)
-			(pin unspecified line
-				(at 20.32 -55.88 90)
-				(length 5.08)
-				(name "CLK"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 24.13 -55.88 90)
-				(length 5.08)
-				(name "DIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 27.94 -55.88 90)
-				(length 5.08)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 31.75 -55.88 90)
-				(length 5.08)
-				(name "RST"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
 				)
 			)
 			(pin unspecified line
@@ -1686,9 +1614,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 44.45 -53.34 90)
-				(length 2.54)
-				(name "NFC3_0.16"
+				(at 31.75 -55.88 90)
+				(length 5.08)
+				(name "RST"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1704,9 +1632,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -53.34 90)
-				(length 2.54)
-				(name "NFC4_1.00"
+				(at 27.94 -55.88 90)
+				(length 5.08)
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1722,9 +1650,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 36.83 -53.34 90)
-				(length 2.54)
-				(name "NFC5_1.10"
+				(at 24.13 -55.88 90)
+				(length 5.08)
+				(name "CLK"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1758,9 +1686,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 48.26 -3.81 270)
-				(length 2.54)
-				(name "BATT+"
+				(at 20.32 -55.88 90)
+				(length 5.08)
+				(name "DIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1776,9 +1704,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 44.45 -3.81 270)
+				(at 48.26 -3.81 270)
 				(length 2.54)
-				(name "BATT-"
+				(name "BAT+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1786,6 +1714,24 @@
 					)
 				)
 				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 44.45 -3.81 270)
+				(length 2.54)
+				(name "BAT-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
 					(effects
 						(font
 							(size 1.27 1.27)

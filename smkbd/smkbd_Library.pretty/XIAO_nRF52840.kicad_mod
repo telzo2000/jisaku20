@@ -28,8 +28,8 @@
 			)
 		)
 	)
-	(property "Footprint" "myfootprintLibrary:XIAO_nRF52840_wBAT_wNFC"
-		(at 0 0 0)
+	(property "Footprint" "XIAO_nRF52840_v2"
+		(at -0.32 -2.98 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -343,94 +343,94 @@
 		(uuid "eff94ca2-ec7b-47f0-a9bf-ec317cdcab58")
 	)
 	(fp_text user "NFC"
-		(at 3.22 16.99 0)
+		(at 6.25 17.03 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "B.SilkS")
 		(uuid "1fb6c487-85e6-4d29-9328-6df8708f0f6a")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(fp_text user "RST"
-		(at -4.99 5.17 0)
+		(at -2.36 5.1 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "B.SilkS")
 		(uuid "3bb6fa1c-84d0-49ad-853e-9271502f9b5c")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(fp_text user "CLK"
-		(at -5.12 2.47 0)
+		(at -2.36 2.48 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "B.SilkS")
 		(uuid "47e6ce7a-cb7a-4067-b1ae-88538f25719d")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(fp_text user "BAT+"
-		(at -1.81 10.59 0)
+		(at 1.99 10.6 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "B.SilkS")
 		(uuid "63b5e90b-7fbc-4081-8b47-aa1f55f10db2")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(fp_text user "DIO"
-		(at 2.22 2.47 0)
+		(at 4.83 2.52 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "B.SilkS")
 		(uuid "6fc30298-0bb1-4088-a2a3-fa7429e14db0")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(fp_text user "BAT-"
-		(at -1.81 8.83 0)
+		(at 1.9 8.6 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "B.SilkS")
 		(uuid "8be46bbb-47fd-4d81-b904-41295cb7097a")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(fp_text user "GND"
-		(at 2.04 5.02 0)
+		(at 5.18 5.14 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "B.SilkS")
 		(uuid "c3c655ab-9535-4971-a9ff-921979411539")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(pad "1" thru_hole oval

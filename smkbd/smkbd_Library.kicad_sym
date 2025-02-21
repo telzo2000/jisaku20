@@ -1652,7 +1652,7 @@
 			(pin unspecified line
 				(at 24.13 -55.88 90)
 				(length 5.08)
-				(name "CLK"
+				(name "CLK_P1.00"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1688,7 +1688,7 @@
 			(pin unspecified line
 				(at 20.32 -55.88 90)
 				(length 5.08)
-				(name "DIO"
+				(name "DIO_P0.16"
 					(effects
 						(font
 							(size 1.27 1.27)
