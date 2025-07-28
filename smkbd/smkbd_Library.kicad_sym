@@ -1578,7 +1578,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U1"
-			(at 33.782 -21.844 0)
+			(at 50.4541 7.3631 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1587,7 +1587,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 50.4541 1.27 0)
+			(at 50.4541 5.6817 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1595,7 +1595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "XIAO_nRF52840_maked_by_mki"
+		(property "Footprint" "smkbd_Library:XIAO_nRF52840_maked_by_mki"
 			(at 31.242 6.096 0)
 			(effects
 				(font

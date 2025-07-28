@@ -1578,7 +1578,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U1"
-			(at 33.782 -21.844 0)
+			(at 50.4541 7.3631 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1587,7 +1587,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 50.4541 1.27 0)
+			(at 50.4541 5.6817 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1595,7 +1595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "XIAO_nRF52840_maked_by_mki"
+		(property "Footprint" "logo:XIAO_nRF52840_plus_mki"
 			(at 31.242 6.096 0)
 			(effects
 				(font
@@ -1623,7 +1623,7 @@
 			)
 		)
 		(symbol "XIAO-nRF52840_maked_by_mki_1_1"
-			(text "XIAO-nRF52840"
+			(text "XIAO-nRF52840_plus"
 				(at 31.496 3.81 0)
 				(effects
 					(font
@@ -1633,7 +1633,7 @@
 			)
 			(text_box ""
 				(at 12.7 -6.35 0)
-				(size 41.91 -44.45)
+				(size 41.91 -50.165)
 				(stroke
 					(width 0)
 					(type default)
@@ -1649,7 +1649,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -15.24 0)
+				(at 10.16 -7.62 0)
 				(length 2.54)
 				(name "P0.02_A0_D0"
 					(effects
@@ -1667,7 +1667,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 57.15 -30.48 180)
+				(at 57.15 -26.67 180)
 				(length 2.54)
 				(name "P1.14_D9_MISO"
 					(effects
@@ -1685,7 +1685,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 57.15 -26.67 180)
+				(at 57.15 -19.05 180)
 				(length 2.54)
 				(name "P1.15_D10_MOSI"
 					(effects
@@ -1703,7 +1703,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 57.15 -22.86 180)
+				(at 57.15 -15.24 180)
 				(length 2.54)
 				(name "3V3"
 					(effects
@@ -1721,7 +1721,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 57.15 -19.05 180)
+				(at 57.15 -11.43 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1739,7 +1739,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 57.15 -15.24 180)
+				(at 57.15 -7.62 180)
 				(length 2.54)
 				(name "5V"
 					(effects
@@ -1757,9 +1757,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 41.91 -53.34 90)
+				(at 40.64 -3.81 270)
 				(length 2.54)
-				(name "NFC1_0.09"
+				(name "BATT-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1775,9 +1775,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 38.1 -53.34 90)
+				(at 44.45 -3.81 270)
 				(length 2.54)
-				(name "NFC2_0.10"
+				(name "BATT+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1793,9 +1793,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 34.29 -53.34 90)
+				(at 10.16 -11.43 0)
 				(length 2.54)
-				(name "NFC3_0.16"
+				(name "GPIO_0.15_I2S_SD"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1811,9 +1811,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 30.48 -53.34 90)
+				(at 10.16 -19.05 0)
 				(length 2.54)
-				(name "NFC4_1.00"
+				(name "GPIO_0.19_I2S_SCK"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1829,9 +1829,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -53.34 90)
+				(at 10.16 -26.67 0)
 				(length 2.54)
-				(name "NFC5_1.10"
+				(name "GPIO_1.01_I2S_WS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1847,7 +1847,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -19.05 0)
+				(at 10.16 -15.24 0)
 				(length 2.54)
 				(name "P0.03_A1_D1"
 					(effects
@@ -1865,9 +1865,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 48.26 -3.81 270)
+				(at 10.16 -34.29 0)
 				(length 2.54)
-				(name "BATT+"
+				(name "GPIO_0.09_NFC1_RX1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1883,9 +1883,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 44.45 -3.81 270)
+				(at 10.16 -41.91 0)
 				(length 2.54)
-				(name "BATT-"
+				(name "GPIO_0.10_NFC2_TX1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1900,10 +1900,10 @@
 					)
 				)
 			)
-			(pin input line
-				(at 35.56 -3.81 270)
+			(pin unspecified line
+				(at 10.16 -49.53 0)
 				(length 2.54)
-				(name "RST"
+				(name "GPIO_0.31_BAT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1911,6 +1911,60 @@
 					)
 				)
 				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 57.15 -22.86 180)
+				(length 2.54)
+				(name "GPIO_1.07_MOSI1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 57.15 -30.48 180)
+				(length 2.54)
+				(name "GPIO_1.05_MISO1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 57.15 -38.1 180)
+				(length 2.54)
+				(name "GPIO_1.03_SCK1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1928,7 +1982,25 @@
 						)
 					)
 				)
-				(number "23"
+				(number "26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 -3.81 270)
+				(length 2.54)
+				(name "RST"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1955,7 +2027,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -26.67 0)
+				(at 10.16 -30.48 0)
 				(length 2.54)
 				(name "P0.29_A3_D3"
 					(effects
@@ -1973,9 +2045,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -30.48 0)
+				(at 10.16 -38.1 0)
 				(length 2.54)
-				(name "P0.04_A4_D4_SDA"
+				(name "P0.04_A4_D4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1991,9 +2063,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -34.29 0)
+				(at 10.16 -45.72 0)
 				(length 2.54)
-				(name "P0.05_A5_D5_SCL"
+				(name "P0.05_A5_D5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2009,7 +2081,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -38.1 0)
+				(at 10.16 -53.34 0)
 				(length 2.54)
 				(name "P1.11_D6_TX"
 					(effects
@@ -2027,7 +2099,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 57.15 -38.1 180)
+				(at 57.15 -41.91 180)
 				(length 2.54)
 				(name "P1.12_D7_RX"
 					(effects
@@ -2068,22 +2140,20 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U1"
-			(at 50.4541 7.3631 0)
+		(property "Reference" "U2"
+			(at 33.655 -58.1081 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "~"
-			(at 50.4541 5.6817 0)
+			(at 33.655 -59.7895 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "logo:XIAO_nRF52840_plus_mki"
